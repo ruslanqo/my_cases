@@ -1,4 +1,4 @@
-# Yandex Practicum Data Science projects
+# Practicum by Yandex - Data Science projects
 
 Repository containing portfolio of Data Analytics / Machine Learning projects completed during the curriculum at [Yandex.Practicum](https://praktikum.yandex.ru/data-scientist/)
 
